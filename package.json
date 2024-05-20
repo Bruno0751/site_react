@@ -1,6 +1,7 @@
 {
   "name": "site_react",
   "version": "1.0.0",
+  "private": true,
   "description": "Site react",
   "main": "index.js",
   "author": "Bruno Gressler da Silveira",
